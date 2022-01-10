@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Jan 2022 13:58:47 at http://pegasustl.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://pegasustl.com/ -O1 "D:\My Web Sites\Original\GRANLIFE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:03:23	Error: 	"Not Found" (404) at link pegasustl.com/css/slider.css (from pegasustl.com/)
+14:03:39	Warning: 	Retry after error -4 (Incorrect length (1188683 Bytes, 1373128 expected)) at link pegasustl.com/images/slider_bg_three.jpg (from pegasustl.com/)
+14:03:47	Warning: 	Retry after error -4 (Incorrect length (1187365 Bytes, 1318072 expected)) at link pegasustl.com/images/slider_bg_foure.jpg (from pegasustl.com/)
+14:04:02	Warning: 	Retry after error -4 (Incorrect length (660479 Bytes, 769860 expected)) at link pegasustl.com/images/slider_bg_five.jpg (from pegasustl.com/)
+14:04:09	Warning: 	Retry after error -4 (Incorrect length (264140 Bytes, 460262 expected)) at link pegasustl.com/images/about.png (from pegasustl.com/)
+14:04:51	Error: 	"Not Found" (404) at link pegasustl.com/lib/owl/owl.video.play.png (from pegasustl.com/lib/owl/owl.carousel.min.css)
+14:04:51	Error: 	"Not Found" (404) at link pegasustl.com/image/pattern1.png (from pegasustl.com/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 4 seconds : 54 links scanned, 46 files written (9780286 bytes overall) [9298537 bytes received at 25545 bytes/sec], 673798 bytes transferred using HTTP compression in 26 files, ratio 25%, 2.3 requests per connection
+(3 errors, 4 warnings, 0 messages)
